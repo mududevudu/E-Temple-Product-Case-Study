@@ -52,8 +52,10 @@ The core features defined for the initial product launch include:
 
 ### Onboarding Wireframe 
 <img width="329" height="704" alt="image" src="https://github.com/user-attachments/assets/d7b4372e-36db-48c2-a464-46c893fd1cd4" />
+
 ### Service Booking Wireframe
 <img width="996" height="726" alt="image" src="https://github.com/user-attachments/assets/1514b5ec-45e8-46c8-b367-48e225b7615e" />
+
 ### User Journey Wireframe
 <img width="1065" height="621" alt="image" src="https://github.com/user-attachments/assets/b4b4ef7f-24e7-4bec-b653-7a4350618d62" />
 
